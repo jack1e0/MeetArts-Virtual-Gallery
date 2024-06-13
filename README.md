@@ -6,7 +6,7 @@ This repository contains the first version of the virtual gallery that I develop
 * Please allow up to 2 minutes of loading time.
 
 ### Demo
-v1.0 demo: https://jack1e0.github.io/MeetArts-Virtual-Gallery/
+Explore the demo of my original version at https://jack1e0.github.io/MeetArts-Virtual-Gallery/
 
 ### Official website
 View the official MeetArts website at https://meetarts-vr.org
