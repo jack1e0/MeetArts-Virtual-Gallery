@@ -1,12 +1,15 @@
 # MeetArts Virtual Gallery
-This repository contains the first version of the virtual gallery that I developed for MeetArts (available at https://meetarts-vr.org), hosted for demonstration purposes. It offers an immersive digital art experience for viewers, who can browse through the artworks through first-person POV. <br>
+This repository contains the first version of the virtual gallery that I developed for MeetArts, hosted for demonstration purposes. It offers an immersive digital art experience for viewers, who can browse through the artworks through first-person POV. <br>
 
-#### Note
+#### Note:
 * Only accessible on laptop/ PC. Mobile devices are not supported.
 * Please allow up to 2 minutes of loading time.
 
 ### Demo
-<a href="https://jack1e0.github.io/MeetArts-Virtual-Gallery/" target="_blank">Virtual Gallery Demo</a>
+v1.0 demo: https://jack1e0.github.io/MeetArts-Virtual-Gallery/
+
+### Official website
+View the official MeetArts website at https://meetarts-vr.org
 
 ### Features
 * First-person perspective and movement
