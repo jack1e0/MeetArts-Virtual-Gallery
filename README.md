@@ -17,6 +17,10 @@ View the official MeetArts website at https://meetarts-vr.org
 * Narration upon hovering over artworks
 * Immersive music that can be toggled
 
+### Media 
+* [Gallery Guide](https://jack1e0.github.io/MeetArts-Virtual-Gallery/wp-content/uploads/2024/05/Gallery-Guide.pdf)
+* [Promotional Video](https://www.youtube.com/watch?v=580EWTQHvaE)
+
 ### Snapshots
 ![snapshot 1](images/snapshot1.jpg)
 ![snapshot 2](images/snapshot2.jpg)
