@@ -9,7 +9,7 @@ This repository contains the first version of the virtual gallery that I develop
 Explore the demo of my original version at https://jack1e0.github.io/MeetArts-Virtual-Gallery/
 
 ### Official website
-View the official MeetArts website at https://meetarts-vr.org
+View the official [MeetArts website](https://vr.meetarts.org/)
 
 ### Features
 * First-person perspective and movement
